@@ -1,0 +1,42 @@
+
+.main-box{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    /* border: 2px solid cadetblue; */
+    background-image: url('../assets/itms-bg3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+}
+.inner-box{
+    width: 80%;
+    padding: 30px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    background-color: rgba(224, 224, 224, 0.911);
+    text-align: center;
+    position: absolute;
+    right: auto;
+}
+
+@media (min-width: 1000px) and (max-width: 1350px) {
+    .inner-box {
+        width: 30%;
+    }
+}
+@media (min-width: 470px) and (max-width: 999px) {
+    .inner-box {
+        width: 40%;
+    }
+}
+
+@media (min-width: 1351px) {
+    .inner-box {
+        width: 20%;
+    }
+}
