@@ -84,6 +84,7 @@ export default function SimplePaper({ paperData }) {
 
   const handleOpen = (content) => {
     setModalContent(content);
+    console.log(content)
     setOpen(true);
     const stringArray = content.map(item => `${item.point_id}`);
     const postData = async () => {

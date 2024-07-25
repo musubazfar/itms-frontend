@@ -22,43 +22,45 @@ import '../index.css'
 /*------------------------------------------------Redux Imports-----------------------------------------*/
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchRoadsData } from '../Redux/slices/get_roads_live_5min';
+import sampleResponse from '../../JSON/5_minute_response.json'
 
 const HomePage = () => {
   const navigate = useNavigate();
   
-  useEffect(() => {
-    // Check if user is authenticated
-    const login_token = sessionStorage.getItem('token');
-    if (!login_token) {
-        navigate('/');
-    }
-}, []);
-useEffect(() => {
-  const checkExpiration = () => {
-      const login_token = sessionStorage.getItem('token');
-      const loginTime = sessionStorage.getItem('loginTime');
-      const TEN_MINUTES = 120 * 60 * 1000; // 10 minutes in milliseconds
+//   useEffect(() => {
+//     // Check if user is authenticated
+//     const login_token = sessionStorage.getItem('token');
+//     if (!login_token) {
+//         navigate('/');
+//     }
+// }, []);
+// useEffect(() => {
+//   const checkExpiration = () => {
+//       const login_token = sessionStorage.getItem('token');
+//       const loginTime = sessionStorage.getItem('loginTime');
+//       const TEN_MINUTES = 120 * 60 * 1000; // 10 minutes in milliseconds
 
-      if (!login_token || !loginTime || (Date.now() - loginTime) > TEN_MINUTES) {
-          // If login_token or loginTime is not found, or if 10 minutes have passed, clear sessionStorage and redirect
-          sessionStorage.clear();
-          navigate('/');
-      }
-  };
+//       if (!login_token || !loginTime || (Date.now() - loginTime) > TEN_MINUTES) {
+//           // If login_token or loginTime is not found, or if 10 minutes have passed, clear sessionStorage and redirect
+//           sessionStorage.clear();
+//           navigate('/');
+//       }
+//   };
 
-  // Check expiration immediately on mount
-  checkExpiration();
+//   // Check expiration immediately on mount
+//   checkExpiration();
 
-  // Set interval to check expiration every minute
-  const interval = setInterval(checkExpiration, 60 * 1000); // 1 minute in milliseconds
+//   // Set interval to check expiration every minute
+//   const interval = setInterval(checkExpiration, 60 * 1000); // 1 minute in milliseconds
 
-  // Clear interval on component unmount
-  return () => clearInterval(interval);
-}, [navigate]); 
+//   // Clear interval on component unmount
+//   return () => clearInterval(interval);
+// }, [navigate]); 
 
   const dispatch = useDispatch();
   const { data: apiResponses, loading, error } = useSelector(state => state.api);
-  const [apiResponse_5min, setApiResponse_5min] = useState([]);
+  // const [apiResponse_5min, setApiResponse_5min] = useState([]);
+  const [apiResponse_5min, setApiResponse_5min] = useState(sampleResponse);
   const [apiResponse_Hourly, setApiResponse_Hourly] = useState([]);
   const [apiResponse_Daily, setApiResponse_Daily] = useState([]);
   const [forecastApi, setForecastApi] = useState([]);
@@ -276,7 +278,7 @@ const top10ForeCastExtraction = foreCastExtraction
 </Grid>
 
       </Box>
-      <MapComponent extractedData={roadId} />
+      {/* <MapComponent extractedData={roadId} /> */}
     </Box>      
     </Navbar>
   );
