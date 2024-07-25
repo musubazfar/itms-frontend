@@ -22,7 +22,6 @@ import '../index.css'
 /*------------------------------------------------Redux Imports-----------------------------------------*/
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchRoadsData } from '../Redux/slices/get_roads_live_5min';
-import sampleResponse from '../../JSON/5_minute_response.json'
 
 const HomePage = () => {
   const navigate = useNavigate();
@@ -277,7 +276,7 @@ const top10ForeCastExtraction = foreCastExtraction
 </Grid>
 
       </Box>
-      {/* <MapComponent extractedData={roadId} /> */}
+      <MapComponent extractedData={roadId} />
     </Box>      
     </Navbar>
   );
