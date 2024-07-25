@@ -1,67 +1,94 @@
 import * as React from 'react';
-import Box from '@mui/material/Box';
-import { DataGrid } from '@mui/x-data-grid';
+import PropTypes from 'prop-types';
+import { useState } from 'react';
+import { Tabs, Tab, Box, Button, ButtonGroup } from '@mui/material';
+import Navbar from '../components/Navbar';
+import CityDataTable from '../components/CityDataTable'
+// ---------------------------------------------------------- Prime Data Table Styles import-----------------------------------------------------------
+import 'primeicons/primeicons.css';
+import { PrimeReactProvider } from 'primereact/api';
+import 'primeflex/primeflex.css';  
+import 'primereact/resources/primereact.css';
+import 'primereact/resources/themes/lara-light-indigo/theme.css';
 
-const columns = [
-  { field: 'id', headerName: 'ID', width: 90 },
-  {
-    field: 'firstName',
-    headerName: 'First name',
-    width: 150,
-    editable: true,
-  },
-  {
-    field: 'lastName',
-    headerName: 'Last name',
-    width: 150,
-    editable: true,
-  },
-  {
-    field: 'age',
-    headerName: 'Age',
-    type: 'number',
-    width: 110,
-    editable: true,
-  },
-  {
-    field: 'fullName',
-    headerName: 'Full name',
-    description: 'This column has a value getter and is not sortable.',
-    sortable: false,
-    width: 160,
-    valueGetter: (value, row) => `${row.firstName || ''} ${row.lastName || ''}`,
-  },
-];
+function CustomTabPanel(props) {
+  const { children, value, index, ...other } = props;
 
-const rows = [
-  { id: 1, lastName: 'Snow', firstName: 'Jon', age: 14 },
-  { id: 2, lastName: 'Lannister', firstName: 'Cersei', age: 31 },
-  { id: 3, lastName: 'Lannister', firstName: 'Jaime', age: 31 },
-  { id: 4, lastName: 'Stark', firstName: 'Arya', age: 11 },
-  { id: 5, lastName: 'Targaryen', firstName: 'Daenerys', age: null },
-  { id: 6, lastName: 'Melisandre', firstName: null, age: 150 },
-  { id: 7, lastName: 'Clifford', firstName: 'Ferrara', age: 44 },
-  { id: 8, lastName: 'Frances', firstName: 'Rossini', age: 36 },
-  { id: 9, lastName: 'Roxie', firstName: 'Harvey', age: 65 },
-];
+  const [activeTable, setActiveTable] = useState(null);
 
-export default function DataGridDemo() {
+  const handleButtonClick = (tableNumber) => {
+    setActiveTable(tableNumber);
+  };
+
   return (
-    <Box sx={{ height: 400, width: '100%' }}>
-      <DataGrid
-        rows={rows}
-        columns={columns}
-        initialState={{
-          pagination: {
-            paginationModel: {
-              pageSize: 5,
-            },
-          },
-        }}
-        pageSizeOptions={[5]}
-        checkboxSelection
-        disableRowSelectionOnClick
-      />
-    </Box>
+    <div
+      role="tabpanel"
+      hidden={value !== index}
+      id={`simple-tabpanel-${index}`}
+      aria-labelledby={`simple-tab-${index}`}
+      {...other}
+    >
+      {value === index && <Box sx={{ p: 3 }}>{children}</Box>}
+    </div>
+  );
+}
+
+CustomTabPanel.propTypes = {
+  children: PropTypes.node,
+  index: PropTypes.number.isRequired,
+  value: PropTypes.number.isRequired,
+};
+
+function a11yProps(index) {
+  return {
+    id: `simple-tab-${index}`,
+    'aria-controls': `simple-tabpanel-${index}`,
+  };
+}
+
+export default function BasicTabs() {
+  const [value, setValue] = React.useState(0);
+
+  const handleChange = (event, newValue) => {
+    setValue(newValue);
+  };
+
+  return (
+    <PrimeReactProvider>
+    <Navbar>
+      <Box sx={{ width: '100%' }}>
+        <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
+          <Tabs
+            value={value}
+            onChange={handleChange}
+            aria-label="basic tabs example"
+            variant="scrollable" // Enable scrolling
+            scrollButtons="auto" // Show scroll buttons when needed
+          >
+            <Tab label="City Options" {...a11yProps(0)} sx={{ fontWeight: 'bolder' }} />
+            <Tab label="Camera Options" {...a11yProps(1)} sx={{ fontWeight: 'bolder' }} disabled />
+            <Tab label="User Management" {...a11yProps(2)} sx={{ fontWeight: 'bolder' }} disabled />
+          </Tabs>
+        </Box>
+        <CustomTabPanel value={value} index={0}>
+          <Box sx={{ display: 'flex', justifyContent: 'center', mb: 2 }}>
+            <ButtonGroup variant="contained" aria-label="Basic button group">
+              <Button onClick={() => handleButtonClick(1)}>Add New City</Button>
+              <Button onClick={() => handleButtonClick(2)}>Select City</Button>
+            </ButtonGroup>
+          </Box>
+          <Box sx={{ display: 'flex', justifyContent: 'center', mb: 2 }}>
+            <CityDataTable/>
+          </Box>
+        </CustomTabPanel>
+        <CustomTabPanel value={value} index={1}>
+          Item Two
+        </CustomTabPanel>
+        <CustomTabPanel value={value} index={2}>
+          Item Three
+        </CustomTabPanel>
+      </Box>
+    </Navbar>
+    </PrimeReactProvider>
   );
 }

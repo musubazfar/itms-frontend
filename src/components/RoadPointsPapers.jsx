@@ -33,8 +33,9 @@ import { useNavigate } from "react-router-dom";
 const StyledPaper = styled(Paper)(({ theme, bgColor }) => ({
   padding: theme.spacing(2),
   boxShadow: theme.shadows[5],
-  width: "159px",
-  height: "148px",
+  width: "fit-content",
+  minWidth: '190px',
+  height: "180px",
   backgroundColor: bgColor,
   borderRadius: "30px",
 }));
@@ -225,7 +226,7 @@ export default function SimplePaper({ paperData }) {
                   >
                     <Box
                       component="a"
-                      onClick={() => handleOpen(Object.values(points).filter(item=>item.mode_congestion == "High"))}
+                      onClick={() => handleOpen(Object.values(points))}
                       sx={{
                         cursor: "pointer",
                         textDecoration: "none",

@@ -1,0 +1,3067 @@
+{
+    "1": {
+        "name": "Ferozpur Road",
+        "directions": {
+            "NS": {
+                "direction": "NS",
+                "points": {
+                    "1": {
+                        "point_id": 1,
+                        "name": "Gajjumatta",
+                        "start_latlong": "31.39889638521155, 74.36126310978364",
+                        "end_latlong": "31.407852828296676, 74.3599568010508",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "2": {
+                        "point_id": 2,
+                        "name": "Tariq Floor Mill Rd",
+                        "start_latlong": "31.407852828296676, 74.3599568010508",
+                        "end_latlong": "31.41676226926861, 74.3587219570797",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "3": {
+                        "point_id": 3,
+                        "name": "Kalamkaar Rd",
+                        "start_latlong": "31.41676226926861, 74.3587219570797",
+                        "end_latlong": "31.42568927692869, 74.3574191128839",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "4": {
+                        "point_id": 4,
+                        "name": "Atari Industry Road",
+                        "start_latlong": "31.42568927692869, 74.3574191128839",
+                        "end_latlong": "31.434643850512145, 74.35609091451943",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "5": {
+                        "point_id": 5,
+                        "name": "Go Filling Station",
+                        "start_latlong": "31.434643850512145, 74.35609091451943",
+                        "end_latlong": "31.443565005780954, 74.35478268620994",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "6": {
+                        "point_id": 6,
+                        "name": "Qasr e Ameer Banquet Hall",
+                        "start_latlong": "31.443565005780954, 74.35478268620994",
+                        "end_latlong": "31.452295752688105, 74.35270239358637",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "7": {
+                        "point_id": 7,
+                        "name": "Ismail Nagar Bazar",
+                        "start_latlong": "31.452295752688105, 74.35270239358637",
+                        "end_latlong": "31.460944017302747, 74.34954432440641",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "8": {
+                        "point_id": 8,
+                        "name": "Near Qanchi Abid Market",
+                        "start_latlong": "31.460944017302747, 74.34954432440641",
+                        "end_latlong": "31.46942214724295, 74.34595499308816",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "9": {
+                        "point_id": 9,
+                        "name": "Jamia Masjid Madni",
+                        "start_latlong": "31.46942214724295, 74.34595499308816",
+                        "end_latlong": "31.477866375652372, 74.34242718262156",
+                        "average_speed": 45,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "10": {
+                        "point_id": 10,
+                        "name": "A/H Diognal Road,Ferozpur Rd",
+                        "start_latlong": "31.477866375652372, 74.34242718262156",
+                        "end_latlong": "31.48635063566596, 74.33887896462517",
+                        "average_speed": 45,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "11": {
+                        "point_id": 11,
+                        "name": "Ops Naseerabad Mosque",
+                        "start_latlong": "31.48635063566596, 74.33887896462517",
+                        "end_latlong": "31.49483234118375, 74.33535593619881",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "12": {
+                        "point_id": 12,
+                        "name": "Linear Park(Nawaz Shareef Park)",
+                        "start_latlong": "31.49483234118375, 74.33535593619881",
+                        "end_latlong": "31.503294047216425, 74.33183741868733",
+                        "average_speed": 45,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "13": {
+                        "point_id": 13,
+                        "name": "Kalma Chowk Metro Bus Station",
+                        "start_latlong": "31.503294047216425, 74.33183741868733",
+                        "end_latlong": "31.511839592882332, 74.32862564372357",
+                        "average_speed": 45,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "14": {
+                        "point_id": 14,
+                        "name": "Hameed Latif Hospital",
+                        "start_latlong": "31.511839592882332, 74.32862564372357",
+                        "end_latlong": "31.520081828180604, 74.32566167480569",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "15": {
+                        "point_id": 15,
+                        "name": "Muslim Town Mor",
+                        "start_latlong": "31.520081828180604, 74.32566167480569",
+                        "end_latlong": "31.528481865645787, 74.32220367924172",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "16": {
+                        "point_id": 16,
+                        "name": "Marble Market",
+                        "start_latlong": "31.528481865645787, 74.32220367924172",
+                        "end_latlong": "31.537206682636313, 74.31946998379924",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 1,
+                        "peak_hours": {
+                            "20": {
+                                "count": 1,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "17": {
+                        "point_id": 17,
+                        "name": "After Ichra Qabrastan",
+                        "start_latlong": "31.537206682636313, 74.31946998379924",
+                        "end_latlong": "31.545697691637343, 74.3162168869013",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "18": {
+                        "point_id": 18,
+                        "name": "Near PSO Ferozpur Road",
+                        "start_latlong": "31.545697691637343, 74.3162168869013",
+                        "end_latlong": "31.553649858050573, 74.31178095037043",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "19": {
+                        "point_id": 19,
+                        "name": "Janazgah Metro Bus Station",
+                        "start_latlong": "31.553649858050573, 74.31178095037043",
+                        "end_latlong": "31.56132225285744, 74.30719240312942",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "20": {
+                        "point_id": 20,
+                        "name": "Service Road, Shadab Garden, Lahore, Punjab",
+                        "start_latlong": "31.56132225285744, 74.30719240312942",
+                        "end_latlong": "31.56868374847701, 74.3042682517933",
+                        "average_speed": 17.5,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "21": {
+                        "point_id": 21,
+                        "name": "Civil Secreteriat Metro Bus Stop",
+                        "start_latlong": "31.56868374847701, 74.3042682517933",
+                        "end_latlong": "31.577327592663604, 74.30679834911196",
+                        "average_speed": 15,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "22": {
+                        "point_id": 22,
+                        "name": "Ali Baba Bakery Adjacent to Gamay Shah",
+                        "start_latlong": "31.577327592663604, 74.30679834911196",
+                        "end_latlong": "31.58610381480318, 74.30655956262554",
+                        "average_speed": 12,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "23": {
+                        "point_id": 23,
+                        "name": "Lahore – Kasur Rd, Gajju Matah, Lahore, Punjab 54000",
+                        "start_latlong": "31.58610381480318, 74.30655956262554",
+                        "end_latlong": "31.590845633854066, 74.30579894872528",
+                        "average_speed": 33,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    }
+                }
+            },
+            "SN": {
+                "direction": "SN",
+                "points": {
+                    "24": {
+                        "point_id": 24,
+                        "name": "Azadi Chowk StATION",
+                        "start_latlong": "31.59107366333886, 74.30626849103402",
+                        "end_latlong": "31.579055616953408, 74.30703636337078",
+                        "average_speed": 21,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "25": {
+                        "point_id": 25,
+                        "name": "New Garden Market",
+                        "start_latlong": "31.579055616953408, 74.30703636337078",
+                        "end_latlong": "31.57455224445894, 74.30652945999918",
+                        "average_speed": 12,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "26": {
+                        "point_id": 26,
+                        "name": "Taxali Chowk",
+                        "start_latlong": "31.57455224445894, 74.30652945999918",
+                        "end_latlong": "31.56593333318106, 74.30416001230512",
+                        "average_speed": 20,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "27": {
+                        "point_id": 27,
+                        "name": "Civil Courts Lahore Masjid",
+                        "start_latlong": "31.56593333318106, 74.30416001230512",
+                        "end_latlong": "31.55868205256037, 74.30923719939028",
+                        "average_speed": 19,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 1,
+                        "peak_hours": {
+                            "20": {
+                                "count": 1,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "28": {
+                        "point_id": 28,
+                        "name": "Hamdard laboratory",
+                        "start_latlong": "31.55868205256037, 74.30923719939028",
+                        "end_latlong": "31.551014205791187, 74.31429317174589",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "29": {
+                        "point_id": 29,
+                        "name": "Big Bite BBQ",
+                        "start_latlong": "31.551014205791187, 74.31429317174589",
+                        "end_latlong": "31.542583841216466, 74.31779445732329",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "30": {
+                        "point_id": 30,
+                        "name": "Tollinton Market Road",
+                        "start_latlong": "31.542583841216466, 74.31779445732329",
+                        "end_latlong": "31.53393992669313, 74.32079639853251",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "31": {
+                        "point_id": 31,
+                        "name": "Ichra Shopping Center",
+                        "start_latlong": "31.53393992669313, 74.32079639853251",
+                        "end_latlong": "31.525321866966785, 74.32356902480001",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "32": {
+                        "point_id": 32,
+                        "name": "Total Filling Station Feroz Por Rd",
+                        "start_latlong": "31.525321866966785, 74.32356902480001",
+                        "end_latlong": "31.517552757484935, 74.32848700044697",
+                        "average_speed": 20,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "33": {
+                        "point_id": 33,
+                        "name": "Shayan Pakistan Real Estate ",
+                        "start_latlong": "31.517552757484935, 74.32848700044697",
+                        "end_latlong": "31.50873840635588, 74.32996149665415",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "34": {
+                        "point_id": 34,
+                        "name": "Lahore Sightseeing Bus Terminal",
+                        "start_latlong": "31.50873840635588, 74.32996149665415",
+                        "end_latlong": "31.500242571414805, 74.33334258083441",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "35": {
+                        "point_id": 35,
+                        "name": "Toyota Garden Motors",
+                        "start_latlong": "31.500242571414805, 74.33334258083441",
+                        "end_latlong": "31.48325152441388, 74.34041625012374",
+                        "average_speed": 40,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "36": {
+                        "point_id": 36,
+                        "name": "Lt. Yasir Shaheed Rd",
+                        "start_latlong": "31.48325152441388, 74.34041625012374",
+                        "end_latlong": "31.474872945152388, 74.34401221924398",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "37": {
+                        "point_id": 37,
+                        "name": "Social Security Hospital",
+                        "start_latlong": "31.474872945152388, 74.34401221924398",
+                        "end_latlong": "31.466315771059467, 74.3474095128934",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "38": {
+                        "point_id": 38,
+                        "name": "PEL Factory",
+                        "start_latlong": "31.466315771059467, 74.3474095128934",
+                        "end_latlong": "31.457866723151763, 74.35104960746231",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "39": {
+                        "point_id": 39,
+                        "name": "Ghazi Chowk",
+                        "start_latlong": "31.457866723151763, 74.35104960746231",
+                        "end_latlong": "31.449165994270665, 74.35381111685496",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "40": {
+                        "point_id": 40,
+                        "name": "Shinghai Road",
+                        "start_latlong": "31.449165994270665, 74.35381111685496",
+                        "end_latlong": "31.440297272747202, 74.35549589937987",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "41": {
+                        "point_id": 41,
+                        "name": "Kamaha Road, Ferozpur Rd",
+                        "start_latlong": "31.440297272747202, 74.35549589937987",
+                        "end_latlong": "31.43133786401666, 74.35678288603548",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "42": {
+                        "point_id": 42,
+                        "name": "Atari Saroba Metro Bus Station",
+                        "start_latlong": "31.43133786401666, 74.35678288603548",
+                        "end_latlong": "31.42243750325535, 74.35806402274687",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "43": {
+                        "point_id": 43,
+                        "name": "Nishter Colony Bus Stop",
+                        "start_latlong": "31.42243750325535, 74.35806402274687",
+                        "end_latlong": "31.413537755999805, 74.3594723493791",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "44": {
+                        "point_id": 44,
+                        "name": "Youhanna Abab  Station",
+                        "start_latlong": "31.413537755999805, 74.3594723493791",
+                        "end_latlong": "31.40455972724209, 74.36072121995751",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "45": {
+                        "point_id": 45,
+                        "name": "Best Madni Paints",
+                        "start_latlong": "31.40455972724209, 74.36072121995751",
+                        "end_latlong": "31.398905161246493, 74.36159294713846",
+                        "average_speed": 39,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    }
+                }
+            }
+        }
+    },
+    "2": {
+        "name": "Mall Road",
+        "directions": {
+            "E": {
+                "direction": "E",
+                "points": {
+                    "46": {
+                        "point_id": 46,
+                        "name": "Fortress Aziz Bhatti Chowk",
+                        "start_latlong": "31.53015753509078, 74.36865261810283",
+                        "end_latlong": "31.534579750218615, 74.36003816403492",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "47": {
+                        "point_id": 47,
+                        "name": "Qurban Police Line",
+                        "start_latlong": "31.534579750218615, 74.36003816403492",
+                        "end_latlong": "31.54109861772971, 74.35282340268265",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "48": {
+                        "point_id": 48,
+                        "name": "Upper Mall",
+                        "start_latlong": "31.54109861772971, 74.35282340268265",
+                        "end_latlong": "31.547649290078176, 74.34563652152589",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "49": {
+                        "point_id": 49,
+                        "name": "Aitchichin College",
+                        "start_latlong": "31.547649290078176, 74.34563652152589",
+                        "end_latlong": "31.55358109444345, 74.3377253001357",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "50": {
+                        "point_id": 50,
+                        "name": "PC Hotel Mall Road",
+                        "start_latlong": "31.55358109444345, 74.3377253001357",
+                        "end_latlong": "31.557424331395517, 74.3283939880906",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "51": {
+                        "point_id": 51,
+                        "name": "QA Library Mall Road",
+                        "start_latlong": "31.557424331395517, 74.3283939880906",
+                        "end_latlong": "31.56189978951201, 74.31935289880849",
+                        "average_speed": 17.5,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "52": {
+                        "point_id": 52,
+                        "name": "Regal Chowk",
+                        "start_latlong": "31.56189978951201, 74.31935289880849",
+                        "end_latlong": "31.567502710107064, 74.31111493245572",
+                        "average_speed": 20,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": true
+                            }
+                        }
+                    },
+                    "53": {
+                        "point_id": 53,
+                        "name": "Commercial Street",
+                        "start_latlong": "31.567502710107064, 74.31111493245572",
+                        "end_latlong": "31.569622692445712, 74.304870104617",
+                        "average_speed": 20,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    }
+                }
+            },
+            "W": {
+                "direction": "W",
+                "points": {
+                    "54": {
+                        "point_id": 54,
+                        "name": "Nasir Bagh",
+                        "start_latlong": "31.56979335135826, 74.30491458676015",
+                        "end_latlong": "31.56567058199176, 74.31421874238649",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "55": {
+                        "point_id": 55,
+                        "name": "GPO Chowk",
+                        "start_latlong": "31.56567058199176, 74.31421874238649",
+                        "end_latlong": "31.56065627443337, 74.32283095418605",
+                        "average_speed": 15,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "56": {
+                        "point_id": 56,
+                        "name": "Indus Hotel",
+                        "start_latlong": "31.56065627443337, 74.32283095418605",
+                        "end_latlong": "31.555698428711835, 74.33154085326404",
+                        "average_speed": 20,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "57": {
+                        "point_id": 57,
+                        "name": "Shahrah-e-Quaid-e-Azam, Garhi Shahu, Lahore, Punjab",
+                        "start_latlong": "31.555698428711835, 74.33154085326404",
+                        "end_latlong": "31.551818170661402, 74.34089855873484",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "58": {
+                        "point_id": 58,
+                        "name": "Mall Road Near Devis Road",
+                        "start_latlong": "31.551818170661402, 74.34089855873484",
+                        "end_latlong": "31.54551585010519, 74.34845726853307",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "59": {
+                        "point_id": 59,
+                        "name": "Canal Mall",
+                        "start_latlong": "31.54551585010519, 74.34845726853307",
+                        "end_latlong": "31.53886019205018, 74.35549349903368",
+                        "average_speed": 20,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "60": {
+                        "point_id": 60,
+                        "name": "Lahore Jimkhana",
+                        "start_latlong": "31.53886019205018, 74.35549349903368",
+                        "end_latlong": "31.53232333201029, 74.36272649180522",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "61": {
+                        "point_id": 61,
+                        "name": "Fortress Square Mall",
+                        "start_latlong": "31.53232333201029, 74.36272649180522",
+                        "end_latlong": "31.530248206276923, 74.36873098754131",
+                        "average_speed": 13,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "3": {
+        "name": "Jail Road",
+        "directions": {
+            "W": {
+                "direction": "W",
+                "points": {
+                    "80": {
+                        "point_id": 80,
+                        "name": "Mozang Speedo BusStop",
+                        "start_latlong": "31.547677059934827, 74.31615240310927",
+                        "end_latlong": "31.54486693750302, 74.32025854936234",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "81": {
+                        "point_id": 81,
+                        "name": "Ops To Toyota Shaheen Motors",
+                        "start_latlong": "31.54486693750302, 74.32025854936234",
+                        "end_latlong": "31.543197161157224, 74.32485004701206",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "82": {
+                        "point_id": 82,
+                        "name": "Lahore College for Women",
+                        "start_latlong": "31.543197161157224, 74.32485004701206",
+                        "end_latlong": "31.542708900511407, 74.33006704722662",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "83": {
+                        "point_id": 83,
+                        "name": "Apwa College",
+                        "start_latlong": "31.542708900511407, 74.33006704722662",
+                        "end_latlong": "31.540427530677693, 74.33420837786986",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "84": {
+                        "point_id": 84,
+                        "name": "Race Course Park",
+                        "start_latlong": "31.540427530677693, 74.33420837786986",
+                        "end_latlong": "31.537488995017004, 74.33826107135853",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "85": {
+                        "point_id": 85,
+                        "name": "Kinnard College For Women",
+                        "start_latlong": "31.537488995017004, 74.33826107135853",
+                        "end_latlong": "31.53477489316008, 74.34247723127002",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "86": {
+                        "point_id": 86,
+                        "name": "Ammar Medical Complex",
+                        "start_latlong": "31.53477489316008, 74.34247723127002",
+                        "end_latlong": "31.534340047589403, 74.34761324612307",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "87": {
+                        "point_id": 87,
+                        "name": "Zafar Ali Road",
+                        "start_latlong": "31.534340047589403, 74.34761324612307",
+                        "end_latlong": "31.532421206702345, 74.35240218168953",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    }
+                }
+            },
+            "E": {
+                "direction": "E",
+                "points": {
+                    "72": {
+                        "point_id": 72,
+                        "name": "Gulberg Galleria Jail Road",
+                        "start_latlong": "31.532286354286747, 74.35207733970019",
+                        "end_latlong": "31.534208256733148, 74.34729849059995",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 3,
+                        "peak_hours": {
+                            "20": {
+                                "count": 3,
+                                "pic_evidence": true
+                            }
+                        }
+                    },
+                    "73": {
+                        "point_id": 73,
+                        "name": "Ayesha Saddiqui Road",
+                        "start_latlong": "31.534208256733148, 74.34729849059995",
+                        "end_latlong": "31.534683835449417, 74.34212681751943",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "74": {
+                        "point_id": 74,
+                        "name": "FC College Service Road",
+                        "start_latlong": "31.534683835449417, 74.34212681751943",
+                        "end_latlong": "31.537440490545016, 74.33802413588764",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "75": {
+                        "point_id": 75,
+                        "name": "Omar Hospital",
+                        "start_latlong": "31.537440490545016, 74.33802413588764",
+                        "end_latlong": "31.540390531493294, 74.33407273687892",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 1,
+                        "peak_hours": {
+                            "20": {
+                                "count": 1,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "76": {
+                        "point_id": 76,
+                        "name": "Services Hospital",
+                        "start_latlong": "31.540390531493294, 74.33407273687892",
+                        "end_latlong": "31.542495683560173, 74.32978247884336",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "77": {
+                        "point_id": 77,
+                        "name": "Near Shadman Market Blvd",
+                        "start_latlong": "31.542495683560173, 74.32978247884336",
+                        "end_latlong": "31.543116162128015, 74.32455898817332",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "78": {
+                        "point_id": 78,
+                        "name": "weather Redar Jail Road",
+                        "start_latlong": "31.543116162128015, 74.32455898817332",
+                        "end_latlong": "31.544819831003288, 74.32003767201068",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "79": {
+                        "point_id": 79,
+                        "name": "Toyota Shaheen Motors",
+                        "start_latlong": "31.544819831003288, 74.32003767201068",
+                        "end_latlong": "31.547503065663236, 74.31600523286863",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    }
+                }
+            }
+        }
+    },
+    "4": {
+        "name": "Band Road",
+        "directions": {
+            "N": {
+                "direction": "N",
+                "points": {
+                    "62": {
+                        "point_id": 62,
+                        "name": "Irfan Fabrics Chowk Yatem Khana",
+                        "start_latlong": "31.531915729430384, 74.28691519480095",
+                        "end_latlong": "31.53383525061771, 74.28216814107972",
+                        "average_speed": 10,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "63": {
+                        "point_id": 63,
+                        "name": "Bilal Travels Bund Road",
+                        "start_latlong": "31.53383525061771, 74.28216814107972",
+                        "end_latlong": "31.535632283043643, 74.2773038454534",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "64": {
+                        "point_id": 64,
+                        "name": "Rafique Sons Pharmacy",
+                        "start_latlong": "31.535632283043643, 74.2773038454534",
+                        "end_latlong": "31.53704324190684, 74.27228644413859",
+                        "average_speed": 5,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "65": {
+                        "point_id": 65,
+                        "name": "Faisal Movers",
+                        "start_latlong": "31.53704324190684, 74.27228644413859",
+                        "end_latlong": "31.538201354063453, 74.2671924899733",
+                        "average_speed": 10,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "66": {
+                        "point_id": 66,
+                        "name": "Opposite Speedo Bus Stop Babu Sabu",
+                        "start_latlong": "31.538201354063453, 74.2671924899733",
+                        "end_latlong": "31.53845452572487, 74.2620996261156",
+                        "average_speed": 15,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 1,
+                        "peak_hours": {
+                            "20": {
+                                "count": 1,
+                                "pic_evidence": false
+                            }
+                        }
+                    }
+                }
+            },
+            "E": {
+                "direction": "E",
+                "points": {
+                    "67": {
+                        "point_id": 67,
+                        "name": "Babu Sabu Toll Plaza",
+                        "start_latlong": "31.538629945189374, 74.26230646534987",
+                        "end_latlong": "31.53824748780026, 74.26736523489224",
+                        "average_speed": 14,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "68": {
+                        "point_id": 68,
+                        "name": "Speedo Bus Stop Babu Sabu",
+                        "start_latlong": "31.53824748780026, 74.26736523489224",
+                        "end_latlong": "31.5370882357902, 74.27251561732592",
+                        "average_speed": 16,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "69": {
+                        "point_id": 69,
+                        "name": "Skyways Bus Terminal",
+                        "start_latlong": "31.5370882357902, 74.27251561732592",
+                        "end_latlong": "31.535666300948776, 74.27750989051792",
+                        "average_speed": 12.5,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "70": {
+                        "point_id": 70,
+                        "name": "Shezan Factory",
+                        "start_latlong": "31.535666300948776, 74.27750989051792",
+                        "end_latlong": "31.533917428546378, 74.28230031581036",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "71": {
+                        "point_id": 71,
+                        "name": "Rehber Travles Bund Road",
+                        "start_latlong": "31.533917428546378, 74.28230031581036",
+                        "end_latlong": "31.532227963854147, 74.28695663066735",
+                        "average_speed": 15,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "5": {
+        "name": "Main Boulevard Road",
+        "directions": {
+            "S": {
+                "direction": "S",
+                "points": {
+                    "96": {
+                        "point_id": 96,
+                        "name": "Century Tower, Main BLVD Gulberg",
+                        "start_latlong": "31.504866644513076, 74.33185131367871",
+                        "end_latlong": "31.50694687509676, 74.33644387953463",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "97": {
+                        "point_id": 97,
+                        "name": "Centre Point Plaza",
+                        "start_latlong": "31.50694687509676, 74.33644387953463",
+                        "end_latlong": "31.510012129917815, 74.34021076751067",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "98": {
+                        "point_id": 98,
+                        "name": "Big City Tower",
+                        "start_latlong": "31.510012129917815, 74.34021076751067",
+                        "end_latlong": "31.51398360387062, 74.34250604698993",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "99": {
+                        "point_id": 99,
+                        "name": "Opposite Alhafeez Shopping Mall",
+                        "start_latlong": "31.51398360387062, 74.34250604698993",
+                        "end_latlong": "31.518048011865368, 74.34478751566087",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "100": {
+                        "point_id": 100,
+                        "name": "Tron Global PVT.",
+                        "start_latlong": "31.518048011865368, 74.34478751566087",
+                        "end_latlong": "31.52207887369175, 74.34709459174974",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "101": {
+                        "point_id": 101,
+                        "name": "Selenium Automation Testing Trainer",
+                        "start_latlong": "31.52207887369175, 74.34709459174974",
+                        "end_latlong": "31.526122274673853, 74.3494059221357",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "102": {
+                        "point_id": 102,
+                        "name": "MEGA TOWER",
+                        "start_latlong": "31.526122274673853, 74.3494059221357",
+                        "end_latlong": "31.530242248437233, 74.3514087511255",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "103": {
+                        "point_id": 103,
+                        "name": "Cue Cinemas",
+                        "start_latlong": "31.530242248437233, 74.3514087511255",
+                        "end_latlong": "31.5320658923555, 74.35218819106542",
+                        "average_speed": 13,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    }
+                }
+            },
+            "N": {
+                "direction": "N",
+                "points": {
+                    "88": {
+                        "point_id": 88,
+                        "name": "Sadiq Trade Centre",
+                        "start_latlong": "31.53185173352829, 74.35240094460282",
+                        "end_latlong": "31.527675005049772, 74.3503640494085",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "89": {
+                        "point_id": 89,
+                        "name": "Mcdonald's Stop Gulberg",
+                        "start_latlong": "31.527675005049772, 74.3503640494085",
+                        "end_latlong": "31.523535898040944, 74.34822116607876",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "90": {
+                        "point_id": 90,
+                        "name": "City Tower",
+                        "start_latlong": "31.523535898040944, 74.34822116607876",
+                        "end_latlong": "31.51946297194584, 74.34599438185967",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "91": {
+                        "point_id": 91,
+                        "name": "BSM Burgers Sandwiches & More",
+                        "start_latlong": "31.51946297194584, 74.34599438185967",
+                        "end_latlong": "31.515419728704213, 74.34368654457553",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "92": {
+                        "point_id": 92,
+                        "name": "Ijaz Centre",
+                        "start_latlong": "31.515419728704213, 74.34368654457553",
+                        "end_latlong": "31.511386762012947, 74.34143584800844",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "93": {
+                        "point_id": 93,
+                        "name": "Liberty Heights",
+                        "start_latlong": "31.511386762012947, 74.34143584800844",
+                        "end_latlong": "31.507841516173578, 74.33841639453046",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "94": {
+                        "point_id": 94,
+                        "name": "Centre Point Bus Stop",
+                        "start_latlong": "31.507841516173578, 74.33841639453046",
+                        "end_latlong": "31.505048028309748, 74.33427442341186",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "95": {
+                        "point_id": 95,
+                        "name": "ASE Construction Opposite National Park",
+                        "start_latlong": "31.505048028309748, 74.33427442341186",
+                        "end_latlong": "31.504286024378594, 74.33195511423897",
+                        "average_speed": 14,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "6": {
+        "name": "Raiwind Road",
+        "directions": {
+            "S": {
+                "direction": "S",
+                "points": {
+                    "139": {
+                        "point_id": 139,
+                        "name": "Soneri Bank Thokar",
+                        "start_latlong": "31.469370287744507,74.24216502498757",
+                        "end_latlong": "31.461648038856673,74.24435887126046",
+                        "average_speed": 18,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "140": {
+                        "point_id": 140,
+                        "name": "Al Shifa Hospital ",
+                        "start_latlong": "31.461648038856673,74.24435887126046",
+                        "end_latlong": "31.452682258445485,74.24550892650514",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "141": {
+                        "point_id": 141,
+                        "name": "Audi Pakistan",
+                        "start_latlong": "31.452682258445485,74.24550892650514",
+                        "end_latlong": "31.446679121902253,74.23835365712897",
+                        "average_speed": 20,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "142": {
+                        "point_id": 142,
+                        "name": "Khanzada Marble",
+                        "start_latlong": "31.446679121902253,74.23835365712897",
+                        "end_latlong": "31.440092199710907,74.23201197298368",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "143": {
+                        "point_id": 143,
+                        "name": "Al Habib Consultant",
+                        "start_latlong": "31.440092199710907,74.23201197298368",
+                        "end_latlong": "31.431168385248036,74.23144202942206",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "144": {
+                        "point_id": 144,
+                        "name": "PU Employee Society Bus Stop Raiwind RD",
+                        "start_latlong": "31.431168385248036,74.23144202942206",
+                        "end_latlong": "31.422279929495016,74.22973108909142",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "145": {
+                        "point_id": 145,
+                        "name": "Siraj Deen Electronics Raiwind Road",
+                        "start_latlong": "31.422279929495016,74.22973108909142",
+                        "end_latlong": "31.41326185494589,74.22984789813039",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "146": {
+                        "point_id": 146,
+                        "name": "Haji Basheer Catering & Party Décor",
+                        "start_latlong": "31.41326185494589,74.22984789813039",
+                        "end_latlong": "31.404243154522028,74.2299206568356",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "147": {
+                        "point_id": 147,
+                        "name": "Guard Rice Mills",
+                        "start_latlong": "31.404243154522028,74.2299206568356",
+                        "end_latlong": "31.395225300774428,74.23006592299363",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "148": {
+                        "point_id": 148,
+                        "name": "Usman Crane & ForkLifter Rentals",
+                        "start_latlong": "31.395225300774428,74.23006592299363",
+                        "end_latlong": "31.386206896308565,74.23012617357898",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "149": {
+                        "point_id": 149,
+                        "name": "Ghosia Tuff Tile & Home Interior",
+                        "start_latlong": "31.386206896308565,74.23012617357898",
+                        "end_latlong": "31.377180658916355,74.23046163025356",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "150": {
+                        "point_id": 150,
+                        "name": "Ripah University Bus Stop",
+                        "start_latlong": "31.377180658916355,74.23046163025356",
+                        "end_latlong": "31.363045974925008,74.2341318445265",
+                        "average_speed": 32,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "151": {
+                        "point_id": 151,
+                        "name": "Noshahi Photocopy Adda Plot",
+                        "start_latlong": "31.363045974925008,74.2341318445265",
+                        "end_latlong": "31.37217925746468,74.2316901395813",
+                        "average_speed": 29,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    }
+                }
+            },
+            "N": {
+                "direction": "N",
+                "points": {
+                    "126": {
+                        "point_id": 126,
+                        "name": "Indus Interior Adda Plot",
+                        "start_latlong": "31.364543820815577,74.23341708187435",
+                        "end_latlong": "31.36937615782697,74.22983942400084",
+                        "average_speed": 39,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "127": {
+                        "point_id": 127,
+                        "name": "Dera Mehar Rafique Raiwind Road",
+                        "start_latlong": "31.36937615782697,74.22983942400084",
+                        "end_latlong": "31.378050838937916,74.23012901329615",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "128": {
+                        "point_id": 128,
+                        "name": "Bilal Switch Gear Engineering Pvt.",
+                        "start_latlong": "31.378050838937916,74.23012901329615",
+                        "end_latlong": "31.387080606226604,74.23003407363329",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "129": {
+                        "point_id": 129,
+                        "name": "Pakistan Tile",
+                        "start_latlong": "31.387080606226604,74.23003407363329",
+                        "end_latlong": "31.396098600116975,74.22992646308157",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "130": {
+                        "point_id": 130,
+                        "name": "Bhubtian Chowk",
+                        "start_latlong": "31.396098600116975,74.22992646308157",
+                        "end_latlong": "31.405116908255508,74.22980502921051",
+                        "average_speed": 20,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "131": {
+                        "point_id": 131,
+                        "name": "Mumtaz Bakhtawar Hospital Bus Stop",
+                        "start_latlong": "31.405116908255508,74.22980502921051",
+                        "end_latlong": "31.414135562521167,74.22973238574451",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "132": {
+                        "point_id": 132,
+                        "name": "Dubai Town Chowk",
+                        "start_latlong": "31.414135562521167,74.22973238574451",
+                        "end_latlong": "31.423183804065363,74.22965702802796",
+                        "average_speed": 20,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "133": {
+                        "point_id": 133,
+                        "name": "Musharaf Abad ",
+                        "start_latlong": "31.423183804065363,74.22965702802796",
+                        "end_latlong": "31.43199998586722,74.2315238829416",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "134": {
+                        "point_id": 134,
+                        "name": "Tri Tech Structure PVT. LTD.",
+                        "start_latlong": "31.43199998586722,74.2315238829416",
+                        "end_latlong": "31.440975526912894,74.23186183551758",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "135": {
+                        "point_id": 135,
+                        "name": "Agrics Town Bus Stop",
+                        "start_latlong": "31.440975526912894,74.23186183551758",
+                        "end_latlong": "31.447154007692866,74.23878727903444",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "136": {
+                        "point_id": 136,
+                        "name": "Shiekh Zaid Palace Rd",
+                        "start_latlong": "31.447154007692866,74.23878727903444",
+                        "end_latlong": "31.45332465634896,74.2453365956935",
+                        "average_speed": 15,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "138": {
+                        "point_id": 138,
+                        "name": "Rescue 1122 Thokar",
+                        "start_latlong": "31.470321969438537,74.24141007049865",
+                        "end_latlong": "31.4597888763335,74.2444896006811",
+                        "average_speed": 17.5,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "7": {
+        "name": "Canal Road",
+        "directions": {
+            "E": {
+                "direction": "E",
+                "points": {
+                    "152": {
+                        "point_id": 152,
+                        "name": "CanaL Park Thokar Niaz",
+                        "start_latlong": "31.471603064132353,74.24236639992057",
+                        "end_latlong": "31.47383209996339,74.25275827049184",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "153": {
+                        "point_id": 153,
+                        "name": "Speedo Bus Stop Canal View Gate 1",
+                        "start_latlong": "31.47383209996339,74.25275827049184",
+                        "end_latlong": "31.476187409356687,74.26292181015016",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "154": {
+                        "point_id": 154,
+                        "name": "ABC Fresh Grocery Store",
+                        "start_latlong": "31.476187409356687,74.26292181015016",
+                        "end_latlong": "31.478457326616304,74.2730964968183",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "155": {
+                        "point_id": 155,
+                        "name": "Dar e Arqam School Head Office",
+                        "start_latlong": "31.478457326616304,74.2730964968183",
+                        "end_latlong": "31.481724839038723,74.28288905846435",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "156": {
+                        "point_id": 156,
+                        "name": "Speedo Bus Stop Dr Hospital North",
+                        "start_latlong": "31.481724839038723,74.28288905846435",
+                        "end_latlong": "31.48638724417971,74.29187955177537",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "157": {
+                        "point_id": 157,
+                        "name": "SCAS University of Punjab",
+                        "start_latlong": "31.48638724417971,74.29187955177537",
+                        "end_latlong": "31.49218968044874,74.29988802343325",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "159": {
+                        "point_id": 159,
+                        "name": "Main Library, University of Punjab",
+                        "start_latlong": "31.4990025789344,74.30680378848481",
+                        "end_latlong": "31.506012216545003,74.31342731946566",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "160": {
+                        "point_id": 160,
+                        "name": "\nUniversal Student's Consultancy (USC)Lahore",
+                        "start_latlong": "31.506012216545003,74.31342731946566",
+                        "end_latlong": "31.513082749779837,74.32000993530335",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "161": {
+                        "point_id": 161,
+                        "name": "Punjab college campus 2A",
+                        "start_latlong": "31.513082749779837,74.32000993530335",
+                        "end_latlong": "31.520299104031476,74.32654377342405",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "162": {
+                        "point_id": 162,
+                        "name": "Jamia Ashrafia ",
+                        "start_latlong": "31.520299104031476,74.32654377342405",
+                        "end_latlong": "31.527071360402562,74.33326005359683",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "163": {
+                        "point_id": 163,
+                        "name": "Shah Jamal Rd",
+                        "start_latlong": "31.527071360402562,74.33326005359683",
+                        "end_latlong": "31.534094599825593,74.33987975120546",
+                        "average_speed": 45,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "164": {
+                        "point_id": 164,
+                        "name": "Consulate General of The Islamic Republic of Iran ",
+                        "start_latlong": "31.534094599825593,74.33987975120546",
+                        "end_latlong": "31.54107345608434,74.34652573071799",
+                        "average_speed": 26,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "166": {
+                        "point_id": 166,
+                        "name": "Before Zaman Park",
+                        "start_latlong": "31.54810700010879,74.35311719509147",
+                        "end_latlong": "31.554964585914995,74.36010356685851",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "167": {
+                        "point_id": 167,
+                        "name": "PMO Punjab Barrages, Irrigation Department, Government of the Punjab",
+                        "start_latlong": "31.554964585914995,74.36010356685851",
+                        "end_latlong": "31.55969568621153,74.36893866255544",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "168": {
+                        "point_id": 168,
+                        "name": "Jafri Pull",
+                        "start_latlong": "31.55969568621153,74.36893866255544",
+                        "end_latlong": "31.562182274611047,74.37915266136139",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "169": {
+                        "point_id": 169,
+                        "name": "Griffan Ground",
+                        "start_latlong": "31.562182274611047,74.37915266136139",
+                        "end_latlong": "31.564232376549004,74.38938844540232",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "170": {
+                        "point_id": 170,
+                        "name": "Cakes & Bakes ",
+                        "start_latlong": "31.564232376549004,74.38938844540232",
+                        "end_latlong": "31.566373671547055,74.39966083724917",
+                        "average_speed": 25,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "171": {
+                        "point_id": 171,
+                        "name": "Fateh Garh 132KV Grid LESCO",
+                        "start_latlong": "31.566373671547055,74.39966083724917",
+                        "end_latlong": "31.568385108105957,74.40988874836492",
+                        "average_speed": 45,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "172": {
+                        "point_id": 172,
+                        "name": "Risen Cash & Carry - Fatehgarh",
+                        "start_latlong": "31.568385108105957,74.40988874836492",
+                        "end_latlong": "31.570465507787564,74.42013676927127",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "173": {
+                        "point_id": 173,
+                        "name": "Khalid Foundation Boys School",
+                        "start_latlong": "31.570465507787564,74.42013676927127",
+                        "end_latlong": "31.57254617764074,74.43038664525781",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "174": {
+                        "point_id": 174,
+                        "name": "Ops Gulzar Majeed Welfare Trust Hospita",
+                        "start_latlong": "31.57254617764074,74.43038664525781",
+                        "end_latlong": "31.574596701441592,74.44064478388663",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "175": {
+                        "point_id": 175,
+                        "name": "Ansari St",
+                        "start_latlong": "31.574596701441592,74.44064478388663",
+                        "end_latlong": "31.576634957533926,74.45090624228293",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "176": {
+                        "point_id": 176,
+                        "name": "Shah Fareed Road",
+                        "start_latlong": "31.576634957533926,74.45090624228293",
+                        "end_latlong": "31.57884007769728,74.46111271177165",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "177": {
+                        "point_id": 177,
+                        "name": "Shrinr Of Hazart Shakhi Sarkar Baba Jani",
+                        "start_latlong": "31.57884007769728,74.46111271177165",
+                        "end_latlong": "31.580948393273733,74.47136163711549",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "178": {
+                        "point_id": 178,
+                        "name": "Al Hafeez Garden Phase 5",
+                        "start_latlong": "31.580948393273733,74.47136163711549",
+                        "end_latlong": "31.582971018621706,74.48162125062329",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "179": {
+                        "point_id": 179,
+                        "name": "Hafiz sweets and Bakers (Lal Khu), Jallo Rd",
+                        "start_latlong": "31.582971018621706,74.48162125062329",
+                        "end_latlong": "31.585069449400006,74.49186733888119",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "180": {
+                        "point_id": 180,
+                        "name": "Canal pick nick point,",
+                        "start_latlong": "31.585069449400006,74.49186733888119",
+                        "end_latlong": "31.586866295448793,74.50066601376074",
+                        "average_speed": 51,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    }
+                }
+            },
+            "W": {
+                "direction": "W",
+                "points": {
+                    "182": {
+                        "point_id": 182,
+                        "name": "GT Road Bark Road link",
+                        "start_latlong": "31.5863682007928,74.50077025513833",
+                        "end_latlong": "31.584132475771376,74.49058494409476",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "183": {
+                        "point_id": 183,
+                        "name": "After Sozo Water Park",
+                        "start_latlong": "31.584132475771376,74.49058494409476",
+                        "end_latlong": "31.582296519872134,74.48041678914949",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "184": {
+                        "point_id": 184,
+                        "name": "King Sports Arena Jallo",
+                        "start_latlong": "31.582296519872134,74.48041678914949",
+                        "end_latlong": "31.58017747100415,74.47012127697376",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "185": {
+                        "point_id": 185,
+                        "name": "Lahore Medical and dental College",
+                        "start_latlong": "31.58017747100415,74.47012127697376",
+                        "end_latlong": "31.578119548990543,74.45986031909976",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "186": {
+                        "point_id": 186,
+                        "name": "Concordia Collage Harbance pura Canal Road",
+                        "start_latlong": "31.578119548990543,74.45986031909976",
+                        "end_latlong": "31.576053844326417,74.44961428642274",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "187": {
+                        "point_id": 187,
+                        "name": "Nazir Garden",
+                        "start_latlong": "31.576053844326417,74.44961428642274",
+                        "end_latlong": "31.57396981270484,74.43936824798585",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "188": {
+                        "point_id": 188,
+                        "name": "Hameeda Ashiq Gujjar Free Hospital",
+                        "start_latlong": "31.57396981270484,74.43936824798585",
+                        "end_latlong": "31.571940579255653,74.4291114807129",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "189": {
+                        "point_id": 189,
+                        "name": "Qasar e Shahi",
+                        "start_latlong": "31.571940579255653,74.4291114807129",
+                        "end_latlong": "31.569816163039405,74.41885956949113",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "190": {
+                        "point_id": 190,
+                        "name": "Qasr e Shahi Banquet Hall",
+                        "start_latlong": "31.569816163039405,74.41885956949113",
+                        "end_latlong": "31.5677681076638,74.40860368033955",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "191": {
+                        "point_id": 191,
+                        "name": "Noori Darbar Rd",
+                        "start_latlong": "31.5677681076638,74.40860368033955",
+                        "end_latlong": "31.56569176939337,74.39835543106905",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "192": {
+                        "point_id": 192,
+                        "name": "Punj Peer Darbar",
+                        "start_latlong": "31.56569176939337,74.39835543106905",
+                        "end_latlong": "31.56364136325538,74.38809837360294",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "193": {
+                        "point_id": 193,
+                        "name": "Ops Riphah International College (Harbanspura Campus 1) Fateh Gar",
+                        "start_latlong": "31.56364136325538,74.38809837360294",
+                        "end_latlong": "31.561575378185356,74.37784538222036",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "194": {
+                        "point_id": 194,
+                        "name": "LASCO Office",
+                        "start_latlong": "31.561575378185356,74.37784538222036",
+                        "end_latlong": "31.558767769512897,74.3678498095331",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "195": {
+                        "point_id": 195,
+                        "name": "Department of Irrigation",
+                        "start_latlong": "31.558767769512897,74.3678498095331",
+                        "end_latlong": "31.55359079410087,74.35930062274694",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "196": {
+                        "point_id": 196,
+                        "name": "Hassain Shaheed Sohwardi Underpass",
+                        "start_latlong": "31.55359079410087,74.35930062274694",
+                        "end_latlong": "31.546801027276448,74.35238269546032",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "197": {
+                        "point_id": 197,
+                        "name": "Lahore American School",
+                        "start_latlong": "31.546801027276448,74.35238269546032",
+                        "end_latlong": "31.539786144579605,74.34576421365365",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "198": {
+                        "point_id": 198,
+                        "name": "IG Punjab House (Camp Office)",
+                        "start_latlong": "31.539786144579605,74.34576421365365",
+                        "end_latlong": "31.53279775923911,74.33911574107348",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "199": {
+                        "point_id": 199,
+                        "name": "Green Fields Country Club Corporate Office ",
+                        "start_latlong": "31.53279775923911,74.33911574107348",
+                        "end_latlong": "31.525755570606876,74.3325386434917",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "200": {
+                        "point_id": 200,
+                        "name": "Intermediate Gate FC College",
+                        "start_latlong": "31.525755570606876,74.3325386434917",
+                        "end_latlong": "31.518736690434466,74.32593086876271",
+                        "average_speed": 45,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "201": {
+                        "point_id": 201,
+                        "name": "near Canal MetroBus Station",
+                        "start_latlong": "31.518736690434466,74.32593086876271",
+                        "end_latlong": "31.511732803482015,74.3192986616812",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "202": {
+                        "point_id": 202,
+                        "name": "Bahauddin Zakariya University - Sub-Campus ",
+                        "start_latlong": "31.511732803482015,74.3192986616812",
+                        "end_latlong": "31.50470923623973,74.312695150854",
+                        "average_speed": 45,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 1,
+                        "peak_hours": {
+                            "20": {
+                                "count": 1,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "203": {
+                        "point_id": 203,
+                        "name": "Kashmir Underpass",
+                        "start_latlong": "31.50470923623973,74.312695150854",
+                        "end_latlong": "31.497717300352853,74.30604687249222",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "204": {
+                        "point_id": 204,
+                        "name": "NCBA&E West Canal Campus (WCC)",
+                        "start_latlong": "31.497717300352853,74.30604687249222",
+                        "end_latlong": "31.490959400257157,74.29908900890509",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "205": {
+                        "point_id": 205,
+                        "name": "PESSI Social Security Medical Center",
+                        "start_latlong": "31.490959400257157,74.29908900890509",
+                        "end_latlong": "31.48531980483702,74.2908888157782",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 1,
+                        "peak_hours": {
+                            "20": {
+                                "count": 1,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "206": {
+                        "point_id": 206,
+                        "name": "Kalsoom Foundation",
+                        "start_latlong": "31.48531980483702,74.2908888157782",
+                        "end_latlong": "31.480858452299234,74.28176166931033",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 1,
+                        "peak_hours": {
+                            "20": {
+                                "count": 1,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "207": {
+                        "point_id": 207,
+                        "name": "DDLC Labs Abdul Haq Rd",
+                        "start_latlong": "31.480858452299234,74.28176166931033",
+                        "end_latlong": "31.477783705674053,74.27187013744273",
+                        "average_speed": 45,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "208": {
+                        "point_id": 208,
+                        "name": "Dr Hospital",
+                        "start_latlong": "31.477783705674053,74.27187013744273",
+                        "end_latlong": "31.47539538984231,74.26172374242188",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "209": {
+                        "point_id": 209,
+                        "name": "Abu Dhar Al Ghaffari Rd",
+                        "start_latlong": "31.47539538984231,74.26172374242188",
+                        "end_latlong": "31.473204962293575,74.2515182498977",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "210": {
+                        "point_id": 210,
+                        "name": "School of International Studies in Sciences & Art",
+                        "start_latlong": "31.473204962293575,74.2515182498977",
+                        "end_latlong": "31.471127231007102,74.2429030683177",
+                        "average_speed": 51,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "211": {
+                        "point_id": 211,
+                        "name": "Lalazar Park",
+                        "start_latlong": "31.471127231007102,74.2429030683177",
+                        "end_latlong": "31.4711226,74.242834",
+                        "average_speed": 0,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    }
+                }
+            }
+        }
+    },
+    "8": {
+        "name": "GT Road",
+        "directions": {
+            "N": {
+                "direction": "N",
+                "points": {
+                    "237": {
+                        "point_id": 237,
+                        "name": "Misri Shah",
+                        "start_latlong": "31.583845698899545,74.3304472323441",
+                        "end_latlong": "31.579586537114608,74.33624135676592",
+                        "average_speed": 15,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "238": {
+                        "point_id": 238,
+                        "name": "Salamatpura Rd, GT Rd",
+                        "start_latlong": "31.579586537114608,74.33624135676592",
+                        "end_latlong": "31.577374620948845,74.34614000688657",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 1,
+                        "peak_hours": {
+                            "20": {
+                                "count": 1,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "239": {
+                        "point_id": 239,
+                        "name": "HEER RANJHA SHADI HALL",
+                        "start_latlong": "31.577374620948845,74.34614000688657",
+                        "end_latlong": "31.57730149885701,74.35996419566777",
+                        "average_speed": 28,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "240": {
+                        "point_id": 240,
+                        "name": "UET Orangeline Station",
+                        "start_latlong": "31.57730149885701,74.35996419566777",
+                        "end_latlong": "31.57933975568099,74.37003853240847",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "241": {
+                        "point_id": 241,
+                        "name": "Begumpura ",
+                        "start_latlong": "31.57933975568099,74.37003853240847",
+                        "end_latlong": "31.583612638213665,74.3797910616663",
+                        "average_speed": 22,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "242": {
+                        "point_id": 242,
+                        "name": "Shalimar Garden Orange line station",
+                        "start_latlong": "31.583612638213665,74.3797910616663",
+                        "end_latlong": "31.585522804686008,74.38999414443971",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "243": {
+                        "point_id": 243,
+                        "name": "Dhobi ghat Stop",
+                        "start_latlong": "31.585522804686008,74.38999414443971",
+                        "end_latlong": "31.586742914451822,74.40043866922365",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "244": {
+                        "point_id": 244,
+                        "name": "Darogywala Meto Bus Station",
+                        "start_latlong": "31.586742914451822,74.40043866922365",
+                        "end_latlong": "31.587775654053896,74.41089928150178",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "245": {
+                        "point_id": 245,
+                        "name": "Salamatpura Orange Line Station",
+                        "start_latlong": "31.587775654053896,74.41089928150178",
+                        "end_latlong": "31.588831204899048,74.4213583743136",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "246": {
+                        "point_id": 246,
+                        "name": "Islam Park Orange Line Station",
+                        "start_latlong": "31.588831204899048,74.4213583743136",
+                        "end_latlong": "31.589923807169438,74.43181685377067",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "247": {
+                        "point_id": 247,
+                        "name": "Dera Gujjran Orange Line Station",
+                        "start_latlong": "31.589923807169438,74.43181685377067",
+                        "end_latlong": "31.59102127844108,74.44227428099748",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "248": {
+                        "point_id": 248,
+                        "name": "Nadra Sooter Mills",
+                        "start_latlong": "31.59102127844108,74.44227428099748",
+                        "end_latlong": "31.59206453216331,74.45273982926778",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "249": {
+                        "point_id": 249,
+                        "name": "Qazi Town bus stop",
+                        "start_latlong": "31.59206453216331,74.45273982926778",
+                        "end_latlong": "31.593124776942954,74.46320318457495",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "250": {
+                        "point_id": 250,
+                        "name": "KIPS COLLEGE Manawan Campus",
+                        "start_latlong": "31.593124776942954,74.46320318457495",
+                        "end_latlong": "31.59420438529713,74.47366393085088",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "251": {
+                        "point_id": 251,
+                        "name": "Attocki Awan",
+                        "start_latlong": "31.59420438529713,74.47366393085088",
+                        "end_latlong": "31.59529433012628,74.48412331350939",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "253": {
+                        "point_id": 253,
+                        "name": "GT Road View",
+                        "start_latlong": "31.596397360592302,74.49458099624924",
+                        "end_latlong": "31.597491603737826,74.50503993908455",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "254": {
+                        "point_id": 254,
+                        "name": "Jhuggian Dars",
+                        "start_latlong": "31.597491603737826,74.50503993908455",
+                        "end_latlong": "31.59861572034776,74.51549484662385",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "255": {
+                        "point_id": 255,
+                        "name": "GES Dial",
+                        "start_latlong": "31.59861572034776,74.51549484662385",
+                        "end_latlong": "31.59972512474067,74.52595200342903",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "256": {
+                        "point_id": 256,
+                        "name": "Jamia Muhammadia Masjid",
+                        "start_latlong": "31.59972512474067,74.52595200342903",
+                        "end_latlong": "31.60084870067041,74.53640723562872",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "257": {
+                        "point_id": 257,
+                        "name": "Dila Village IFGF Church",
+                        "start_latlong": "31.60084870067041,74.53640723562872",
+                        "end_latlong": "31.601977107413614,74.54686185594633",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "258": {
+                        "point_id": 258,
+                        "name": "Askar 1 Petrol Pump",
+                        "start_latlong": "31.601977107413614,74.54686185594633",
+                        "end_latlong": "31.60310089533651,74.55732643892274",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    }
+                }
+            },
+            "S": {
+                "direction": "S",
+                "points": {
+                    "213": {
+                        "point_id": 213,
+                        "name": "Jamia Masjid Wahga",
+                        "start_latlong": "31.602948567028644,74.55772218197069",
+                        "end_latlong": "31.60185149531562,74.54726288325405",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "214": {
+                        "point_id": 214,
+                        "name": "Masjid-e-Rabbania",
+                        "start_latlong": "31.60185149531562,74.54726288325405",
+                        "end_latlong": "31.600733121584295,74.53680680007771",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "215": {
+                        "point_id": 215,
+                        "name": "Dial Villege",
+                        "start_latlong": "31.600733121584295,74.53680680007771",
+                        "end_latlong": "31.59961877706109,74.52635026785828",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "216": {
+                        "point_id": 216,
+                        "name": "HAG Designs & Decor ",
+                        "start_latlong": "31.59961877706109,74.52635026785828",
+                        "end_latlong": "31.59849620560892,74.51589511354197",
+                        "average_speed": 60,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "217": {
+                        "point_id": 217,
+                        "name": "Rana Saeed warehouse",
+                        "start_latlong": "31.59849620560892,74.51589511354197",
+                        "end_latlong": "31.5973812260963,74.50543893130238",
+                        "average_speed": 60,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "218": {
+                        "point_id": 218,
+                        "name": "Santpur",
+                        "start_latlong": "31.5973812260963,74.50543893130238",
+                        "end_latlong": "31.596274113871463,74.49498173980095",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "219": {
+                        "point_id": 219,
+                        "name": "Post Office Batapur",
+                        "start_latlong": "31.596274113871463,74.49498173980095",
+                        "end_latlong": "31.595202783379086,74.48451954489174",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "220": {
+                        "point_id": 220,
+                        "name": "Bata Factory Pakistan ,",
+                        "start_latlong": "31.595202783379086,74.48451954489174",
+                        "end_latlong": "31.594115951012427,74.47405972966047",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "221": {
+                        "point_id": 221,
+                        "name": "Hussain Pura, ",
+                        "start_latlong": "31.594115951012427,74.47405972966047",
+                        "end_latlong": "31.59302141375938,74.4636010756976",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "222": {
+                        "point_id": 222,
+                        "name": "Salamatpura",
+                        "start_latlong": "31.59302141375938,74.4636010756976",
+                        "end_latlong": "31.591966796382213,74.45313695181225",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "223": {
+                        "point_id": 223,
+                        "name": " Ops  qazi town,Bata pur",
+                        "start_latlong": "31.591966796382213,74.45313695181225",
+                        "end_latlong": "31.59091475620994,74.44267257461186",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "224": {
+                        "point_id": 224,
+                        "name": "Yaadgar-e-Shuhada Wahga Sector",
+                        "start_latlong": "31.59091475620994,74.44267257461186",
+                        "end_latlong": "31.58979849652092,74.43221928075432",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "225": {
+                        "point_id": 225,
+                        "name": "Dera Gujar Byco Pump",
+                        "start_latlong": "31.58979849652092,74.43221928075432",
+                        "end_latlong": "31.58873542230185,74.42175681813077",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "226": {
+                        "point_id": 226,
+                        "name": "Islam Park",
+                        "start_latlong": "31.58873542230185,74.42175681813077",
+                        "end_latlong": "31.587687699533742,74.41129221713739",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "227": {
+                        "point_id": 227,
+                        "name": "Salamatpura Bus Stop",
+                        "start_latlong": "31.587687699533742,74.41129221713739",
+                        "end_latlong": "31.586610894100925,74.40083237286461",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "228": {
+                        "point_id": 228,
+                        "name": "Mehmood Boti",
+                        "start_latlong": "31.586610894100925,74.40083237286461",
+                        "end_latlong": "31.585435979786673,74.39039647579195",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "229": {
+                        "point_id": 229,
+                        "name": "Social Security Medical Center DaroghaWala",
+                        "start_latlong": "31.585435979786673,74.39039647579195",
+                        "end_latlong": "31.58351288642036,74.38017553428935",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "230": {
+                        "point_id": 230,
+                        "name": "Shalimar Bagh",
+                        "start_latlong": "31.58351288642036,74.38017553428935",
+                        "end_latlong": "31.579407727332978,74.37083758795991",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "231": {
+                        "point_id": 231,
+                        "name": "Baghban Pura",
+                        "start_latlong": "31.579407727332978,74.37083758795991",
+                        "end_latlong": "31.57722051187043,74.36064098513462",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "232": {
+                        "point_id": 232,
+                        "name": "UET",
+                        "start_latlong": "31.57722051187043,74.36064098513462",
+                        "end_latlong": "31.575664906796884,74.35026548754223",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "233": {
+                        "point_id": 233,
+                        "name": "Sultanpura ",
+                        "start_latlong": "31.575664906796884,74.35026548754223",
+                        "end_latlong": "31.579370548662695,74.3412764298642",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "234": {
+                        "point_id": 234,
+                        "name": "Near Jinnah Park",
+                        "start_latlong": "31.579370548662695,74.3412764298642",
+                        "end_latlong": "31.58235665916815,74.33193938228156",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "235": {
+                        "point_id": 235,
+                        "name": "Landa Market Dehli Gate",
+                        "start_latlong": "31.58235665916815,74.33193938228156",
+                        "end_latlong": "31.583763442253446,74.33032867659753",
+                        "average_speed": 14,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "236": {
+                        "point_id": 236,
+                        "name": " Nawaz Sahrif Park, Circular Road",
+                        "start_latlong": "31.583763442253446,74.33032867659753",
+                        "end_latlong": "31.5837648,74.3303629",
+                        "average_speed": 6,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "9": {
+        "name": "Multan Road",
+        "directions": {
+            "W": {
+                "direction": "W",
+                "points": {
+                    "275": {
+                        "point_id": 275,
+                        "name": "Chauburji Chowk towards bahawalpurroad",
+                        "start_latlong": "31.55368920477915,74.30511601841555",
+                        "end_latlong": "31.547411347496407,74.29737701759066",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "276": {
+                        "point_id": 276,
+                        "name": "Chauburgi Ground",
+                        "start_latlong": "31.547411347496407,74.29737701759066",
+                        "end_latlong": "31.53942965210878,74.29269015585096",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "277": {
+                        "point_id": 277,
+                        "name": "Bhala Chowk",
+                        "start_latlong": "31.53942965210878,74.29269015585096",
+                        "end_latlong": "31.53168483428511,74.28734080474287",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "278": {
+                        "point_id": 278,
+                        "name": "Baba Jee Kulfi Multan Road",
+                        "start_latlong": "31.53168483428511,74.28734080474287",
+                        "end_latlong": "31.523547475519123,74.28305370484898",
+                        "average_speed": 18,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "279": {
+                        "point_id": 279,
+                        "name": "Fawara Chowk Bus Stop",
+                        "start_latlong": "31.523547475519123,74.28305370484898",
+                        "end_latlong": "31.516268629128785,74.27690351216377",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "280": {
+                        "point_id": 280,
+                        "name": "Honda Car DS Automobiles Dealer",
+                        "start_latlong": "31.516268629128785,74.27690351216377",
+                        "end_latlong": "31.508495315163803,74.27156898631614",
+                        "average_speed": 20,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "281": {
+                        "point_id": 281,
+                        "name": "Kharak Nala Bus Stop",
+                        "start_latlong": "31.508495315163803,74.27156898631614",
+                        "end_latlong": "31.500635024516765,74.26641139548826",
+                        "average_speed": 25,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "282": {
+                        "point_id": 282,
+                        "name": "Opposite Alnoor Hardware",
+                        "start_latlong": "31.500635024516765,74.26641139548826",
+                        "end_latlong": "31.49228382853246,74.2624577847206",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "283": {
+                        "point_id": 283,
+                        "name": "Abdul Aziz Dar Dental Clinic",
+                        "start_latlong": "31.49228382853246,74.2624577847206",
+                        "end_latlong": "31.48553933380279,74.25663632294098",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "284": {
+                        "point_id": 284,
+                        "name": "Aitmad Scrap Metal Dealer",
+                        "start_latlong": "31.48553933380279,74.25663632294098",
+                        "end_latlong": "31.47998773847167,74.24836263141442",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "285": {
+                        "point_id": 285,
+                        "name": "Afia Noor Texttile Industries",
+                        "start_latlong": "31.47998773847167,74.24836263141442",
+                        "end_latlong": "31.473187543874463,74.24172182199764",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "286": {
+                        "point_id": 286,
+                        "name": "Panah Gah Thokar Niaz Baig",
+                        "start_latlong": "31.473187543874463,74.24172182199764",
+                        "end_latlong": "31.47159391351814,74.24140264115927",
+                        "average_speed": 11,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "287": {
+                        "point_id": 287,
+                        "name": "Speedo Bus Stop Thokar Niaz Baig",
+                        "start_latlong": "31.47159391351814,74.24140264115927",
+                        "end_latlong": "31.471854705672623,74.24134094361283",
+                        "average_speed": 14,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    }
+                }
+            },
+            "E": {
+                "direction": "E",
+                "points": {
+                    "262": {
+                        "point_id": 262,
+                        "name": "Jamma Masjid Molvi Sardar",
+                        "start_latlong": "31.471580187595134,74.2409244966079",
+                        "end_latlong": "31.478973599639502,74.24683186170965",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "263": {
+                        "point_id": 263,
+                        "name": "Opposite Gondal Group of Industries",
+                        "start_latlong": "31.478973599639502,74.24683186170965",
+                        "end_latlong": "31.484699859685865,74.2549460143862",
+                        "average_speed": 30,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "264": {
+                        "point_id": 264,
+                        "name": "Superior College Women Campus, Multan Road",
+                        "start_latlong": "31.484699859685865,74.2549460143862",
+                        "end_latlong": "31.49090178871987,74.26177924331725",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 1,
+                        "peak_hours": {
+                            "20": {
+                                "count": 1,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "265": {
+                        "point_id": 265,
+                        "name": "Chaudhry Brother Catering Multan Road",
+                        "start_latlong": "31.49090178871987,74.26177924331725",
+                        "end_latlong": "31.499306716603076,74.2655661571826",
+                        "average_speed": 20,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "266": {
+                        "point_id": 266,
+                        "name": "Mandi Stop Multan Rd",
+                        "start_latlong": "31.499306716603076,74.2655661571826",
+                        "end_latlong": "31.50725685322207,74.27051973595506",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "267": {
+                        "point_id": 267,
+                        "name": "Ghafori Masjid Stop",
+                        "start_latlong": "31.50725685322207,74.27051973595506",
+                        "end_latlong": "31.515061449736933,74.27579314502528",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "268": {
+                        "point_id": 268,
+                        "name": "Opposite Siadpur LESCO Grid STATION",
+                        "start_latlong": "31.515061449736933,74.27579314502528",
+                        "end_latlong": "31.52240692211416,74.28186239939129",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "269": {
+                        "point_id": 269,
+                        "name": "Aabro Marriage Garden Multan Road",
+                        "start_latlong": "31.52240692211416,74.28186239939129",
+                        "end_latlong": "31.530464234830706,74.2862939491342",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "270": {
+                        "point_id": 270,
+                        "name": "Soilder Paint Store, Yateem Khana, Multan Road",
+                        "start_latlong": "31.530464234830706,74.2862939491342",
+                        "end_latlong": "31.53810437658567,74.29187359729647",
+                        "average_speed": 30,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "271": {
+                        "point_id": 271,
+                        "name": "Samanabad Metro Station",
+                        "start_latlong": "31.53810437658567,74.29187359729647",
+                        "end_latlong": "31.54630511216599,74.29614269836992",
+                        "average_speed": 20,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    },
+                    "272": {
+                        "point_id": 272,
+                        "name": "Sign X Print Shop LOS",
+                        "start_latlong": "31.54630511216599,74.29614269836992",
+                        "end_latlong": "31.552505233210233,74.30302606686331",
+                        "average_speed": 30,
+                        "mode_congestion": "Medium",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "273": {
+                        "point_id": 273,
+                        "name": "Hotel Orange One Multan Road",
+                        "start_latlong": "31.552505233210233,74.30302606686331",
+                        "end_latlong": "31.553698347358313,74.30443794558575",
+                        "average_speed": 13,
+                        "mode_congestion": "Low",
+                        "high_congestion_count": 0,
+                        "peak_hours": {}
+                    },
+                    "274": {
+                        "point_id": 274,
+                        "name": "Jamia Masjid Karimia",
+                        "start_latlong": "31.553698347358313,74.30443794558575",
+                        "end_latlong": "31.5536605,74.3044636",
+                        "average_speed": 10,
+                        "mode_congestion": "High",
+                        "high_congestion_count": 2,
+                        "peak_hours": {
+                            "20": {
+                                "count": 2,
+                                "pic_evidence": false
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -46,7 +46,7 @@ const Navbar = ({children}) => {
             <Link href="/Home" sx={button}><img src={dbIcon} style={{marginRight: '30px'}}/>Dashboard</Link>
             {/* <Link href='/Analytics' sx={button}><AnalyticsIcon sx={{fontSize: '30px', marginRight: '30px'}}/>Analytics</Link> */}
             <Link href='/GreenWave' sx={button}><TrafficIcon sx={{fontSize: '30px', marginRight: '30px'}}/>Green Wave</Link>
-            {/* <Link href='/Admin' sx={button}><AdminPanelSettingsIcon sx={{fontSize: '30px', marginRight: '30px'}}/>Admin Panel</Link> */}
+            {/* <Link href='/Admin' sx={button}><AdminPanelSettingsIcon sx={{fontSize: '30px', marginRight: '30px'}}/>Admin Panel</Link>/ */}
         </Box>
         </Box>
         <Box className='preferences' sx={{ ...BottomDiv, bottom: 0 }}>
@@ -124,7 +124,7 @@ const toolBarDesign = {
 const PSCAtext = {
     fontWeight: 900,
     color: 'rgba(176, 208, 240, 1)',
-    fontSize: {lg: '32px', md: '16px', sm: '0', xs: '0' },
+    fontSize: {lg: '32px', md: '12px', sm: '0', xs: '0' },
 }
 
 const navContainer = {
