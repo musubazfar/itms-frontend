@@ -1,9 +1,0 @@
-.mySwiper {
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-}
-
-.mySwiper .swiper-wrapper {
-    transition-timing-function: linear; /* Ensures a linear transition for continuous effect */
-  }
